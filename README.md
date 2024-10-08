@@ -1,0 +1,14 @@
+# andromeda-user 9 PKQ1.190321.001 V12.0.7.0.PEMEUXM release-keys
+- manufacturer: xiaomi
+- platform: msmnile
+- codename: andromeda
+- flavor: andromeda-user
+- release: 9
+- id: PKQ1.190321.001
+- incremental: V12.0.7.0.PEMEUXM
+- tags: release-keys
+- fingerprint: Xiaomi/andromeda_eea/andromeda:9/PKQ1.190321.001/V12.0.7.0.PEMEUXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: andromeda-user-9-PKQ1.190321.001-V12.0.7.0.PEMEUXM-release-keys
+- repo: xiaomi_andromeda_dump
